@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thalesmendonca
-- 👔 I'm currently working on ESP32 microcontroller development and DevWeb
+- 👔 I'm currently working on ESP32 microcontroller development and DevWeb with React and Django
 - 👀 I’m interested in everything about CS
 
 <div align="center">
